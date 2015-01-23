@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+    <head>
+        <title>imgur: the simple image sharer</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="copyright" content="Copyright 2015 Imgur, Inc." />
+        <meta id="viewport" name="viewport" content="width=420, user-scalable=yes" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1421796279" />
+
+        <style type="text/css">
+            #content, #video {
+                width:  420px;
+                height: 231px;
+            }
+            
+            #chrome, #progress {
+                width: 420px;
+            }
+        </style>
+        
+        <link rel="alternate" type="application/json+oembed" href="http://api.imgur.com/oembed.json?url=http://i.imgur.com/hz2PYe4.gifv" title="Imgur GIF" />
+        <link rel="alternate" type="application/xml+oembed" href="http://api.imgur.com/oembed.xml?url=http://i.imgur.com/hz2PYe4.gifv" title="Imgur GIF" />
+                
+        <link rel="canonical"                 href="http://i.imgur.com/hz2PYe4.gifv" />
+
+        <meta property="og:site_name"         content="Imgur" />
+        <meta property="og:url"               content="http://i.imgur.com/hz2PYe4.gifv" />
+        <meta property="og:title"             content="Imgur GIF" />
+        <meta property="og:type"              content="video.other" />
+        
+        <meta property="og:image"             content="http://i.imgur.com/hz2PYe4h.jpg" />
+        <meta property="og:image:width"       content="420" />
+        <meta property="og:image:height"      content="231" />
+        <meta property="og:description"       content="The origin of the Internet's most viral images" />
+        <meta property="og:video"             content="http://s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/hz2PYe4.mp4&imgur_width=420&imgur_height=231&imgur_url=http://imgur.com/hz2PYe4" />
+        <meta property="og:video:secure_url"  content="https://s.imgur.com/include/flash/gifplayer.swf?imgur_video=https://i.imgur.com/hz2PYe4.mp4&imgur_width=420&imgur_height=231&imgur_url=http://imgur.com/hz2PYe4" />
+        <meta property="og:video:type"        content="application/x-shockwave-flash" />
+        <meta property="og:video:width"       content="500" />
+        <meta property="og:video:height"      content="275" />
+        <meta property="og:video"             content="http://i.imgur.com/hz2PYe4.mp4" />
+        <meta property="og:video:secure_url"  content="https://i.imgur.com/hz2PYe4.mp4" />
+        <meta property="og:video:type"        content="video/mp4" />
+        <meta property="og:video:width"       content="500" />
+        <meta property="og:video:height"      content="275" />
+        
+        <meta name="twitter:site"                       content="@imgur" />
+        <meta name="twitter:creator"                    content="@imgur" />
+        <meta name="twitter:domain"                     content="imgur.com" />
+        <meta name="twitter:app:id:googleplay"          content="com.imgur.mobile" />
+        <meta name="twitter:card"                       content="player" />
+        <meta name="twitter:title"                      content="Imgur GIF" />
+        <meta name="twitter:description"                content="The origin of the Internet's most viral images" />
+        <meta name="twitter:image"                      content="https://i.imgur.com/hz2PYe4h.jpg" />
+        <meta name="twitter:image:src"                  content="https://i.imgur.com/hz2PYe4h.jpg" />
+        <meta name="twitter:player"                     content="https://i.imgur.com/hz2PYe4.gifv#t" />
+        <meta name="twitter:player:width"               content="420" />
+        <meta name="twitter:player:height"              content="231" />
+        <meta name="twitter:player:stream"              content="https://i.imgur.com/hz2PYe4.mp4" />
+        <meta name="twitter:player:stream:content_type" content="video/mp4">
+        
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1421796279"></script>
+<![endif]-->
+    </head>
+    <body id="body">
+        <div id="content">
+            <script type="text/javascript">
+                window.image        = 'hz2PYe4';
+                window.image_size   = '177225918';
+                window.image_width  = '420';
+                window.image_height = '231';
+                window.cdn_url      = '//i.imgur.com';
+                    
+                if(navigator.userAgent.match(/Firefox/)) {
+                    document.body.className = document.body.className + ' firefox';
+                }
+            </script>
+            <div class="vid-container">
+                
+                
+                
+                <div class="image textbox">
+    
+
+            <div class="video-container">
+            <script type="text/javascript">
+                var videoItem = {
+                    looping:  true,
+                    width:    420,
+                    height:   231,
+                    size:     177225918,
+                    gifUrl:   '//i.imgur.com/hz2PYe4.gif',
+                    forceGif: false,
+                    hash:     'hz2PYe4'
+                }
+            </script>
+            <video poster="//i.imgur.com/hz2PYe4h.jpg" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline></video>
+            <div class="video-elements">
+                <source src="//i.imgur.com/hz2PYe4.webm" type="video/webm">
+                <source src="//i.imgur.com/hz2PYe4.mp4" type="video/mp4">
+
+                <object style="width: 420px; height: 231px" type="application/x-shockwave-flash"
+                         data="//s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/hz2PYe4.mp4&amp;imgur_width=420&amp;imgur_height=231&amp;imgur_url=">
+                    <param name="movie" value="//s.imgur.com/include/flash/gifplayer.swf?imgur_video=http://i.imgur.com/hz2PYe4.mp4&imgur_width=420&imgur_height=231" />
+                    <param name="allowscriptaccess" value="never" />
+                    <param name="flashvars" value="height=231&amp;width=420" />
+                    <param name="width" value="420" />
+                    <param name="height" value="231" />
+                    <param name="version" value="0" />
+                    <param name="scale" value="scale" />
+                    <param name="salign" value="tl" />
+                    <param name="wmode" value="opaque" />
+                </object>
+            </div>
+            <progress value="0" max="100" min="0"></progress>
+            <div class="video-loader"></div>
+            <script id="scripthz2PYe4" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1421796279"></script>
+
+        </div>
+    
+</div>
+
+            </div>
+            <script type="text/javascript">
+            var pixel_url = '//i.imgur.com/imageview.gif?a=hz2PYe4&r=' + encodeURIComponent(document.referrer);
+            var pixel = document.createElement('img');
+            pixel.src = pixel_url;
+            </script>
+            
+            <div id="chrome">
+                <div class="icon">
+                    <a href="//imgur.com/hz2PYe4"><img src="//i.imgur.com/favicon.ico" /></a>
+                </div>
+                <div class="imgur">
+                    <a href="//imgur.com/hz2PYe4">Imgur</a>
+                </div>
+                <div class="controls">
+                    <a href="//imgur.com/download/hz2PYe4">download</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1421796279"></script>
+
+    </body>
+</html>
