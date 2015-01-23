@@ -1,5 +1,0 @@
-requires praw and wget for python
-
-apt-get install pip
-pip install praw
-pip install wget
